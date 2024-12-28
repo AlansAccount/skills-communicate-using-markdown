@@ -43,12 +43,12 @@ export default function exampleFunction(props) {
 # For Step 4 - Adding a task list using Markdown.
 
 ### These are example list items:
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
 - [ ] Introduce myself to the world
 
 ### These are my own.
-- [ ] Add the example list items.
+- [x] Add the example list items.
 - [ ] Make my own list items.
 - [ ] Finish this step 4 to go to step 5.
 
