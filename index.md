@@ -27,7 +27,10 @@ export default function exampleFunction(props) {
   }
 
   return (
-    {toggle && <button>Button</button>}
+    <>
+      <button onClick={buttonToggleHandler}>Show 2nd Button</button>
+      {toggle && <button>Button</button>}
+    </>
   )
 }
 ```
