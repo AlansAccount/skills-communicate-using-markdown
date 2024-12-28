@@ -2,7 +2,7 @@
 ### Three hashes for <h3> header
 ###### and 6 hashes for <h6> header sizes ie going from 1 to 6 hashes.
 
-![Image of Yaktocat from Step 2: Add an image](https://octodex.github.com/images/yaktocat.png)
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat from Step 2: Add an image" width="300" />
 
 ## Step 3: Adding some code:
 #### Examples From the Instructions:
@@ -34,3 +34,16 @@ export default function exampleFunction(props) {
   )
 }
 ```
+
+# For Step 4 - Adding a task list using Markdown.
+
+### These are example list items:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+### These are my own.
+- [ ] Add the example list items.
+- [ ] Make my own list items.
+- [ ] Finish this step 4 to go to step 5.
+
